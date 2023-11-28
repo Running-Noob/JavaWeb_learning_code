@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0">
+
+    <servlet>
+        <servlet-name>httprequest</servlet-name>
+        <servlet-class>com.f.javaweb.servlet.TestRequestServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>httprequest</servlet-name>
+        <url-pattern>/testRequest</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>register</servlet-name>
+        <servlet-class>com.f.javaweb.servlet.RegisterRequest</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>register</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>aServlet</servlet-name>
+        <servlet-class>com.f.javaweb.servlet.AServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>aServlet</servlet-name>
+        <url-pattern>/a</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>bServlet</servlet-name>
+        <servlet-class>com.f.javaweb.servlet.BServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>bServlet</servlet-name>
+        <url-pattern>/b</url-pattern>
+    </servlet-mapping>
+
+</web-app>
