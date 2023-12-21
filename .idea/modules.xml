@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa.iml" filepath="$PROJECT_DIR$/oa/oa.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/servlet01/servlet01.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet02/servlet02.iml" filepath="$PROJECT_DIR$/servlet02/servlet02.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet03/servlet03.iml" filepath="$PROJECT_DIR$/servlet03/servlet03.iml" />
@@ -13,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/servlet08/servlet08.iml" filepath="$PROJECT_DIR$/servlet08/servlet08.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet09/servlet09.iml" filepath="$PROJECT_DIR$/servlet09/servlet09.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet10/servlet10.iml" filepath="$PROJECT_DIR$/servlet10/servlet10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet11/servlet11.iml" filepath="$PROJECT_DIR$/servlet11/servlet11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet13/servlet13.iml" filepath="$PROJECT_DIR$/servlet13/servlet13.iml" />
     </modules>
   </component>
 </project>

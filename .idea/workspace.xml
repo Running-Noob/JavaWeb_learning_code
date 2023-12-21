@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="servlet10:war exploded" />
+      <artifact name="jsp:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -19,9 +19,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="HTML File" />
         <option value="Dockerfile" />
+        <option value="HTML File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -48,9 +49,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/servlet-api.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Running Noob/Code Project/JavaWeb_learning_code/jsp/web/WEB-INF/lib&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,17 +60,19 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;DockerRegistry&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Running Noob\Code Project\JavaWeb_learning_code\jsp\web\WEB-INF\lib" />
+      <recent name="C:\Users\Running Noob\Code Project\JavaWeb_learning_code\jsp\src\com\f\login\utils" />
       <recent name="C:\Users\Running Noob\Code Project\javaweb" />
       <recent name="C:\Users\Running Noob\Code Project\javaweb\servlet01\web\WEB-INF\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.TestWelcomeServletAnnotation">
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 10.1">
     <configuration name="TestWelcomeServletAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.f.javaweb.annotation.TestWelcomeServletAnnotation" />
       <module name="servlet10" />
@@ -83,13 +87,12 @@
       </method>
     </configuration>
     <configuration name="Tomcat 10.1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.15" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17">
-      <option name="OPEN_IN_BROWSER" value="false" />
       <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="servlet10:war exploded">
+        <artifact name="jsp:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/servlet10" />
+            <option name="CONTEXT_PATH" value="/jsp" />
           </settings>
         </artifact>
       </deployment>
@@ -167,7 +170,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="servlet10:war exploded" />
+          <artifact name="jsp:war exploded" />
         </option>
       </method>
     </configuration>
@@ -215,7 +218,22 @@
       <workItem from="1701493415869" duration="32000" />
       <workItem from="1701519285603" duration="1411000" />
       <workItem from="1701782116416" duration="4186000" />
-      <workItem from="1701833981220" duration="7469000" />
+      <workItem from="1701833981220" duration="11324000" />
+      <workItem from="1701865104621" duration="6761000" />
+      <workItem from="1701926115931" duration="17018000" />
+      <workItem from="1702003459430" duration="2078000" />
+      <workItem from="1702006865903" duration="2221000" />
+      <workItem from="1702103599805" duration="30000" />
+      <workItem from="1702106652051" duration="113000" />
+      <workItem from="1702106773258" duration="357000" />
+      <workItem from="1702465111621" duration="5243000" />
+      <workItem from="1702529174604" duration="274000" />
+      <workItem from="1702529603726" duration="4490000" />
+      <workItem from="1702538236687" duration="1910000" />
+      <workItem from="1702546936507" duration="4384000" />
+      <workItem from="1703124011798" duration="6290000" />
+      <workItem from="1703146570357" duration="5338000" />
+      <workItem from="1703158001715" duration="2590000" />
     </task>
     <servers />
   </component>
